@@ -77,6 +77,7 @@
 1. [A380X/FWS] Add EXCESS RESIDUAL DIFF PRESS and INHIBITED BY DOORS procedures - @Jonny23787 (Jonathan)
 1. [FMS] Fixed incorrect course for enroute holds and direct tos - @tracernz (Mike)
 1. [FMS] Show true bearings correctly in various FMS pages on the MCDU/MFD - @tracernz (Mike)
+1. [A380X/FWS] Improve various ABN SENSED procedure accuracy - @Jonny23787 (Jonathan)
 
 ## 0.14.0
 
